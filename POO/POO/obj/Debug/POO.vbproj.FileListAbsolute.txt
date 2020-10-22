@@ -1,0 +1,12 @@
+C:\Users\artec\source\repos\POO\POO\bin\Debug\POO.exe.config
+C:\Users\artec\source\repos\POO\POO\bin\Debug\POO.exe
+C:\Users\artec\source\repos\POO\POO\bin\Debug\POO.pdb
+C:\Users\artec\source\repos\POO\POO\bin\Debug\POO.xml
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.vbprojAssemblyReference.cache
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.Resources.resources
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.vbproj.GenerateResource.cache
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.vbproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.exe
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.xml
+C:\Users\artec\source\repos\POO\POO\obj\Debug\POO.pdb
